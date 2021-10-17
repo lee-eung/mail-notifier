@@ -1,0 +1,10 @@
+{
+    "mail_userid": "<메일계정>",
+    "mail_passwd": "<비밀번호>",
+    "mail_server": "imap.naver.com",
+    "mail_port": 993,
+    "max_telegramed_mails": 10,
+    "telegram_token": "<텔레그램봇-토큰>",
+    "telegram_chatid": "<텔레그램-챗아이디>",
+    "sleep_interval": 60
+}
