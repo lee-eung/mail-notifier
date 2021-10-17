@@ -6,5 +6,6 @@
     "max_telegramed_mails": 10,
     "telegram_token": "<텔레그램봇-토큰>",
     "telegram_chatid": "<텔레그램-챗아이디>",
+    "logging_timezone": "Asia/Seoul",
     "sleep_interval": 60
 }

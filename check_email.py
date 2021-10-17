@@ -75,7 +75,7 @@ def send_telegram(email_info):
     )
 
 def set_os_timezone():
-    os.environ['TZ'] = 'Asia/Seoul'
+    os.environ['TZ'] = settings['logging_timezone']
     time.tzset()
 
 def initialize_logger():
